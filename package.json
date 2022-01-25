@@ -1,6 +1,8 @@
 {   
     "author": "Baloran",
+    "description": "An awesome. project",
 	"name": "fcc-learn-npm-package-json",
+    "keywords": [ "informative", "freecodecamp", "detailed"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
